@@ -129,7 +129,7 @@ public class Actor : MonoBehaviour {
 		body.transform.Rotate (new Vector3 (0, 180, 0));
 
 		// disable the cursor
-		Cursor.visible = false;
+		Screen.showCursor = false;
 		//Cursor.lockState = CursorLockMode.Locked;
 	}
 	

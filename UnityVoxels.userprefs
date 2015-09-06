@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\bioblox\PDB_unity\Assets\Shaders\PDB.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Actor.cs">
     <Files>
-      <File FileName="..\bioblox\PDB_unity\Assets\Scripts\PDB_molecule.cs" Line="681" Column="33" />
-      <File FileName="..\bioblox\PDB_unity\Assets\Shaders\PDB.shader" Line="191" Column="1" />
+      <File FileName="Assets\Scripts\Actor.cs" Line="101" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
